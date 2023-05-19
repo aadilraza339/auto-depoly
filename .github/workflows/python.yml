@@ -1,4 +1,4 @@
-name: Push Image to ECR
+name: Push python Image to ECR
 'on':
   push:
     branches:
